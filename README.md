@@ -27,6 +27,7 @@ git branch -M main
 ````
 git remote add (link projek)
 ````
+8.
 ````
 git push -u origin main
 ````
