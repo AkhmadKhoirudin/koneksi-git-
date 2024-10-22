@@ -13,7 +13,7 @@ git config --global user.name "AkhmadKhoirudin"
 ````
 4.
 ````
-git config --global user.email "akhmadwibu05@gmail.com
+git config --global user.email "akhmadwibu05@gmail.com"
 ````
 5.
 ````
@@ -32,3 +32,20 @@ git remote add (link projek)
 git push -u origin main
 ````
 
+# koneksi-git-jika sudah perna di ata
+1.
+````
+git init
+````
+2.
+````
+git add .
+````
+3.
+````
+git commit -m "upload git"
+````
+4.
+````
+git push -u origin main  (jika tidak bisa)  mengunakan git push -u origin master
+````
